@@ -149,7 +149,7 @@ app.get("/capture/:token", (req, res) => {
   if (!links[req.params.token]) {
     return res.send("❌ Invalid or expired link!");
   }
-  res.sendFile(path.join(__dirname, "public", "capture.html"));
+  res.sendFile(path.join(__dirname, "public/capture.html"));
 });
 
 
