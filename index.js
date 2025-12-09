@@ -6,7 +6,7 @@ const fs = require("fs");
 const path = require("path");
 
 // 🔴 APNA BOT TOKEN YAHAN DALO
-const TOKEN = "8364224671:AAF2zLHWPixVcUT6m4pwHBRWGCzFueEC0H0";
+const TOKEN = "8323199028:AAGOh1J-i10CjkuFEzFCahHMb6DQAhecsm0";
 
 // 🔴 TUMHARA RENDER LIVE LINK
 const DOMAIN = "https://babywebpanda.onrender.com";
